@@ -24,3 +24,7 @@ make build && make run
 ```
 make migrate
 ```
+
+```bash
+go mod tidy ## для обновления модулей
+```
