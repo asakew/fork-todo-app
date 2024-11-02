@@ -28,3 +28,8 @@ make migrate
 ```bash
 go mod tidy ## для обновления модулей
 ```
+
+## Запуск приложения в контейнере:
+```bash
+docker-compose up todo-app
+```
